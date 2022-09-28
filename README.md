@@ -1,2 +1,2 @@
-# Simple Rect FrontEnd
+# Simple React FrontEnd
  Managing Project Manager Interface FrontEnd
